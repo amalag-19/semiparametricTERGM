@@ -1,0 +1,3 @@
+useDynLib(SEMundir)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

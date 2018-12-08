@@ -1,0 +1,3 @@
+useDynLib(EMdirK1)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

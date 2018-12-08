@@ -1,0 +1,3 @@
+useDynLib(EMundirStabCov)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")

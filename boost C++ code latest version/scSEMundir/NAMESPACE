@@ -1,0 +1,3 @@
+useDynLib(scSEMundir)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
